@@ -2,4 +2,6 @@
 introduction à Git
 premier cours sur github
 
-petite modif importante
+premiere modif importante
+
+deuxieme modif
